@@ -9,4 +9,6 @@ let cc=99;
 let dd=99;
 let cmd = new Promise((resolve, reject) => {
     resolve(77);
+}).then(()=>{
+    console.log("resolved");
 })
