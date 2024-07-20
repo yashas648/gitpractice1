@@ -11,3 +11,9 @@ function ssit(params) {
    let b=55
    console.log("ssit matks is "+b); 
 }
+let ff=new Promise((resolve, reject) => {
+    resolve(55)
+    
+}).then(()=>{
+    console.log("code has been resolved"+resolve);
+})
