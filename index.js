@@ -14,3 +14,6 @@ let cmd = new Promise((resolve, reject) => {
 })
 
 document.querySelectorAll("gg")
+function one(params) {
+    
+}
