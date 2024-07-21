@@ -12,3 +12,5 @@ let cmd = new Promise((resolve, reject) => {
 }).then(()=>{
     console.log("resolved");
 })
+
+document.querySelectorAll("gg")
