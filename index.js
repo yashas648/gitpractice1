@@ -17,3 +17,7 @@ document.querySelectorAll("gg")
 function one(params) {
     
 }
+
+function two (params) {
+    
+}
